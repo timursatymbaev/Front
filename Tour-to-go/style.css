@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url('bg-image.jpg');
+    background-size: cover;
+    background-position: 0rem -5rem;
+    background-repeat: no-repeat;
+}
+
+.rounded-full {
+    margin-left: 10rem;
+}
